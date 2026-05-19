@@ -9,7 +9,7 @@ In the past, I’ve mainly made games in Unity, but am shifting over more toward
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,unity,blender,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,unity,blender,git)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=markmris&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=markmris&theme=dark&hide_border=false)<br/>
