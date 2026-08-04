@@ -5,7 +5,7 @@ I’m a High School student in Canada, and I make things. My main languages are 
 ## What I make and do:
 In the past, I’ve mainly made games in Unity, but am shifting over more towards low-level development, especially in C++. My 2 main niches are hardware projects and graphics programming. At school, I run my own Hack Club and have participated in the Waterloo CCC.
 ## Projects:
-🖼️ MARGE: (Acronym TBD) a raytracing graphics engine written in raw C++.<br>💳 Card Slashers: A game controlled by a card reader. Made with Unity.
+🖼️ MARGE: (Modular Advanced Raytracing & Graphics Engine) a raytracing graphics engine written in raw C++.<br>💳 Card Slashers: A game controlled by a card reader. Made with Unity @ Hack Club Campfire Flagship.
 
 
 # 💻 Tech Stack:
